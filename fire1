@@ -1,4 +1,0 @@
-At this point, your project working directory is exactly the way it was before
-you started working on issue #53, and you can concentrate on your hotfix. This
-is an important point to remember: Git resets your working directory to look like
- Let’s create a hotf
