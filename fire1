@@ -1,7 +1,4 @@
 At this point, your project working directory is exactly the way it was before
 you started working on issue #53, and you can concentrate on your hotfix. This
 is an important point to remember: Git resets your working directory to look like
-the snapshot of the commit that the branch you check out points to. It adds,
-removes, and modifies files automatically to make sure your working copy is
-what the branch looked like on your last commit to it.
-Next, you have a hotfix to make. Let’s create a hotf
+ Let’s create a hotf
